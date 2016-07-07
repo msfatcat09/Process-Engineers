@@ -1,7 +1,25 @@
+body {
+	margin: 0px;
+}
+
+body > p {
+	margin-top: 0;
+}
+
 #front {
-	color: orange;
+	color:white;
 	font-style: normal;
 	font-family: Arial, Helvetica, sans-serif;
+	background-color: black;
+	padding-left: 20px;
+	margin-top: 0;
+	line-height: 250%;
+	margin-bottom: 0;
+	}
+
+p > a {
 	float: right;
-	margin-right: 20px;
+	text-decoration: none;
+	background: #DED7CC;
+	border: 1px dimgrey;
 }
