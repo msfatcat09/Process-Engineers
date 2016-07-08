@@ -23,3 +23,11 @@ p > a {
 	background: #DED7CC;
 	border: 1px dimgrey;
 }
+form {
+	padding-left: 550px;
+	padding-top: 100px;
+}
+
+hr {
+	padding-top: 335px;
+}
